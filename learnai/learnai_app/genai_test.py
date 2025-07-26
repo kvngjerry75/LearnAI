@@ -30,6 +30,6 @@ def test_gemini_api_key():
 if __name__ == "__main__":
     # Make sure you have configured your GEMINI_API_KEY in settings.py
     from django.conf import settings
-    settings.configure(GEMINI_API_KEY="AIzaSyAjN8rUd3n9bxGIUcQRTVWgpw8wmP1WBM0") # Replace with your actual API key
+    settings.configure(GEMINI_API_KEY="hahahahahha defo not my api key heheheheehe") 
 
     test_gemini_api_key()

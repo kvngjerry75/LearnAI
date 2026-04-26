@@ -161,4 +161,4 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
 
-GEMINI_API_KEY ='AIzaSyAjN8rUd3n9bxGIUcQRTVWgpw8wmP1WBM0'
+GEMINI_API_KEY ='AIzgitBM0'
